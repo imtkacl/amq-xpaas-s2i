@@ -138,7 +138,7 @@
               <authorizationEntry queue="CSME.>"
                                   read="csme"
                                   write="csme"
-                                  admin="admins" />
+                                  admin="admins,csme" />
               <authorizationEntry topic="ActiveMQ.Advisory.>"
                                   read="User"
                                   write="User"
